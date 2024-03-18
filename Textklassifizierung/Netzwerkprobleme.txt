@@ -1,0 +1,19 @@
+"Ich kann keine Verbindung zum Internet herstellen, obwohl das WLAN-Symbol angezeigt wird."
+
+"Das Netzwerk ist heute extrem langsam. Gibt es ein Problem mit dem Server?"
+
+"Ich kann keine Verbindung über das VPN herstellen, um auf interne Ressourcen zuzugreifen."
+
+"Das gesamte Netzwerk in unserem Büro ist plötzlich ausgefallen. Können Sie das bitte überprüfen?"
+
+"Ich kann nicht auf das gemeinsame Netzlaufwerk zugreifen. Es erscheint eine Fehlermeldung."
+
+"In einigen Teilen des Gebäudes gibt es kein WLAN-Signal. Kann das verbessert werden?"
+
+"Ich erhalte keine E-Mails mehr. Gibt es ein Problem mit dem E-Mail-Server?"
+
+"Ich habe eine verdächtige Aktivität im Netzwerk bemerkt. Könnte es sich um einen Eindringling handeln?"
+
+"Ich benötige Hilfe bei der Einrichtung der richtigen Netzwerkeinstellungen für eine neue Software."
+
+"Unser Router startet sich ständig neu. Könnte er defekt sein?"
