@@ -1,0 +1,19 @@
+"Der Netzwerkdrucker im dritten Stock druckt nicht mehr und zeigt eine Fehlermeldung an."
+
+"Mein Laptop lässt sich nicht einschalten, trotz mehrfacher Versuche."
+
+"Der Monitor meines Arbeitsplatzes flackert ständig und zeigt manchmal keine Farben richtig an."
+
+"Die Tastatur/Maus ist defekt und reagiert nicht mehr auf Eingaben."
+
+"Mein Computer zeigt eine Warnung an, dass ein Festplattenfehler vorliegt."
+
+"Mein PC wird sehr heiß und schaltet sich manchmal plötzlich ab."
+
+"Ich kann keine Verbindung zu externen Geräten über USB herstellen."
+
+"Die Grafikkarte in meinem Computer scheint defekt zu sein, es gibt keine Anzeige."
+
+"Mein Laptop macht seltsame Geräusche, möglicherweise ist der Lüfter defekt."
+
+"Das WLAN-Modul meines Laptops scheint nicht zu funktionieren, ich kann keine drahtlosen Netzwerke finden."
