@@ -1,0 +1,19 @@
+"Ich kann Microsoft Office nicht auf meinem Laptop installieren. Es erscheint immer eine Fehlermeldung."
+
+"Nach dem letzten Update funktioniert mein E-Mail-Programm nicht mehr richtig."
+
+"Die neue Buchhaltungssoftware ist nicht kompatibel mit unserem alten Betriebssystem."
+
+"Wir haben eine Fehlermeldung erhalten, dass unsere Lizenz für Adobe Photoshop abgelaufen ist."
+
+"Mein CAD-Programm läuft sehr langsam und stürzt häufig ab."
+
+"Ich kann nicht auf bestimmte Funktionen in unserer CRM-Software zugreifen, obwohl ich die richtigen Berechtigungen haben sollte."
+
+"Nach dem letzten Update der Datenbanksoftware sind einige Kundendaten verschwunden."
+
+"Meine Kalender-App synchronisiert Termine nicht mehr mit meinem Smartphone."
+
+"Die Schaltflächen in unserer Projektmanagement-Software werden nicht richtig angezeigt."
+
+"Ich habe Schwierigkeiten, die Einstellungen in unserer Sicherheitssoftware anzupassen, um bestimmte Websites zu blockieren."
